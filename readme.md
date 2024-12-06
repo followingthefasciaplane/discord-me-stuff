@@ -1,6 +1,11 @@
 ## discord.me stuff
 
-random discord.me stuff. your server EID can be found by copying the URL of the "manage server" from your discord.me dashboard. ie: `discord.me/server-manager/thisisyourEID`
+your server EID can be found by copying the URL of the "manage server" from your discord.me dashboard. 
+ie: `discord.me/server-manager/thisisyourEID`  
+
+rename env_example to `.env`  
+
+missed bumps assumes platinum listing by default, you'll need to update the multiplier for non-platinum.  
 
 ## how to get sess id
 
